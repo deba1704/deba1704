@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deba1704&label=Profile%20views&color=0e75b6&style=flat" alt="deba1704" /> </p>
 
-- 🌱 I’m currently learning **Java,Oracle Database**
+- 🌱 I’m have knowledge about **Java,Oracle Database**
 
 - 📫 How to reach me **debashishpattanaik224@gmail.com**
 
