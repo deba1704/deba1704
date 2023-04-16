@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **debashishpattanaik224@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w680pGZ4nMPmNMDjLrAKeaH5zAJfkGno/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w680pGZ4nMPmNMDjLrAKeaH5zAJfkGno/view]    [https://drive.google.com/file/d/1A7GcGY2dF1FavEJoiZNHVCS8yLZ4Ne3d/view]
+- [https://drive.google.com/file/d/1DiARckATXbqp0WtrhBKfF26F-ZXfpftD/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
