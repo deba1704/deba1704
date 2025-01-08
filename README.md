@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Debashish Pattanaik</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">Software Engineer at Capgemini,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deba1704&label=Profile%20views&color=0e75b6&style=flat" alt="deba1704" /> </p>
 
-- 🌱 I’m have knowledge about **Java,Oracle Database**
+- 🌱 I’m have knowledge about **Java,Oracle Database,SQL,POWER BI**
 
 - 📫 How to reach me **debashishpattanaik224@gmail.com**
 
